@@ -177,34 +177,172 @@ Write a function called longerString
 that accept four string as an arguments,
 and return the first longer string
 
-Ex: shorterString("air","school","car","github")
+Ex: longerString("air","school","car","github")
 => school
 */
 
 /*
+15
+Write a function called isEven
+that accept 1 argument as a number,
+and return true if this number is even
+and false if this number is odd
+
+Ex: isEven(1)
+=> false
+Ex: isEven(2)
+=> true
+
+*/
+
+
+/*
+16
+Write a function called isOdd
+that accept 1 argument as a number,
+and return true if this number is Odd
+and false if this number is Even
+
+Ex: isOdd(4)
+=> false
+Ex: isOdd(5)
+=> true
+
+*/
+
+
+/*
+17
+Write a function called positive
+that accept 1 argument as a number,
+and return the positive version of the number passed
+
+Ex: positive(4)
+=> 4
+Ex: positive(-5)
+=> 5
+
+*/
+
+
+/*
+18
+Write a function called fullName
+that accept two parameters, firstName and lastName,
+and returns the firstName and lastName concatenated
+together with a space in between.
+
+Ex: fullName("Mohammad","Jouza")
+=> "Mohammad Jouza"
+Ex: fullName("Alex", "Mercer")
+=> "Alex Mercer"
+*/
+
+
+/*
+19
+Write a function called average
+that takes five numbers as inputs
+and returns the average of those numbers.
+
+Ex: average(1,2,3,4,5)
+=> 3
+
+Ex: average(5,7,9,3,5)
+=> 5.8
+
+*/
+
+
+/*
+20
+Write a function called randomNumber
+that didnt takes any parameter
+and returns a random number between 0-1
+** hint: you can seacrh using MDN
+
+Ex: randomNumber()
+=> 0.2278
+
+Ex: randomNumber()
+=> 0.475
+
+*/
+
+/*
+21
+Write a function called randomBetweenNumbers
+that takes 2 parameters
+and returns a random number between them
+** hint: you can seacrh using MDN
+
+Ex: randomBetweenNumbers(1,8)
+=> 7.5412
+
+Ex: randomBetweenNumbers(3,100)
+=> 23
+
+*/
+
+
+/*
+22
+Write a function called scoreInUniversty
+that takes 2 parameters
+and returns a random number between them
+** hint: you can seacrh using MDN
+
+Ex: randomBetweenNumbers(1,8)
+=> 7.5412
+
+Ex: randomBetweenNumbers(3,100)
+=> 23
 
 
 */
+
 
 /*
 
 
 */
 
-/*
-
-
-*/
 
 /*
 
 
 */
 
+
 /*
 
 
 */
+
+
+/*
+
+
+*/
+
+
+/*
+
+
+*/
+
+
+/*
+
+
+*/
+
+
+/*
+
+
+*/
+
 
 /*
 
