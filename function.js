@@ -99,7 +99,8 @@ accept 2 parameters and calculate the multiply of these 2 numbers
 
 Ex: multiply(3,4)
 => 12
-
+Ex: multiply(5,4)
+=> 20
 */
 
 
@@ -115,6 +116,9 @@ Ex: canIGetADrivingLicense(21)
 
 Ex: canIGetADrivingLicense(17)
 => "please come back after 3 years to get one"
+
+Ex: canIGetADrivingLicense(20)
+=> "yes you can"
 
 */
 
@@ -159,6 +163,13 @@ Ex: smallerNubmer(8,6,7)
 
 Ex: smallerNubmer(5,99,34)
 => 5
+
+Ex: smallerNubmer(5,99,3)
+=> 3
+
+Ex: smallerNubmer(5,3,3)
+=> 3
+
 */
 
 /*
@@ -169,6 +180,22 @@ and return the first shorter string
 
 Ex: shorterString("air","school","car","by","github")
 => by
+
+Ex: shorterString("air","tr","car","by","github")
+=> tr
+
+Ex: shorterString("by","tr","car","air","github")
+=> by
+
+Ex: shorterString("air","by","car","school","github")
+=> by
+
+Ex: shorterString("air","tr","by","car","github")
+=> by
+
+Ex: shorterString("air","tr","car","github","by")
+=> by
+
 */
 
 /*
@@ -179,6 +206,11 @@ and return the first longer string
 
 Ex: longerString("air","school","car","github")
 => school
+
+Ex: longerString("air","schoo","car","github")
+=> github
+
+try all the cases (change the order of the longestString)
 */
 
 /*
@@ -288,15 +320,19 @@ Ex: randomBetweenNumbers(3,100)
 /*
 22
 Write a function called scoreInUniversty
-that takes 2 parameters
-and returns a random number between them
-** hint: you can seacrh using MDN
+that takes 1 parameters
+and returns the alpabet in the unevirsty
+A => 95-100
+B => 85-94
+C => 70-84
+D=> 50-69
+F=> 0-49
 
-Ex: randomBetweenNumbers(1,8)
-=> 7.5412
+Ex: scoreInUniversty(96)
+=> "A"
 
-Ex: randomBetweenNumbers(3,100)
-=> 23
+Ex: randomBetweenNumbers(3)
+=> "F"
 
 
 */
