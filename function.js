@@ -93,6 +93,7 @@ Ex: cube(4)
 
 
 /*
+8
 Write a function called multiply that:
 accept 2 parameters and calculate the multiply of these 2 numbers
 
@@ -103,6 +104,7 @@ Ex: multiply(3,4)
 
 
 /*
+9
 Write a function called canIGetADrivingLicense that:
 accept 1 parameter represent the age
 and if the age greater than or equal to 20 return "yes you can"
@@ -118,28 +120,65 @@ Ex: canIGetADrivingLicense(17)
 
 
 /*
+10
+Write a function called sameLength
+that accepts two strings as arguments,
+and returns true if those strings have the same length, and false otherwise.
 
+**hint: how we can know string length   Ex: : "tree".length   => 4
 
+Ex: sameLength("tree","clue")
+=> true
+
+Ex: sameLength("tree","car")
+=> false
 */
 
 /*
+11
+Write a function called largerNubmer
+that accept two numbers as arguments,
+and return the first larger numbers
+
+Ex: largerNubmer(5,6)
+=> 6
+
+Ex: largerNubmer(5,3)
+=> 5
+*/
 
 
+/*
+12
+Write a function called smallerNubmer
+that accept three numbers as arguments,
+and return the first smaller number
+
+Ex: smallerNubmer(8,6,7)
+=> 6
+
+Ex: smallerNubmer(5,99,34)
+=> 5
 */
 
 /*
+13
+Write a function called shorterString
+that accept five string as an arguments,
+and return the first shorter string
 
-
+Ex: shorterString("air","school","car","by","github")
+=> by
 */
 
 /*
+14
+Write a function called longerString
+that accept four string as an arguments,
+and return the first longer string
 
-
-*/
-
-/*
-
-
+Ex: shorterString("air","school","car","github")
+=> school
 */
 
 /*
