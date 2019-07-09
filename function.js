@@ -331,9 +331,125 @@ F=> 0-49
 Ex: scoreInUniversty(96)
 => "A"
 
-Ex: randomBetweenNumbers(3)
+Ex: scoreInUniversty(3)
 => "F"
 
+Ex: scoreInUniversty(71)
+=> "C"
+*/
+
+
+/*
+23
+Write a function called counter
+that will returns a number bigger
+than the one that returnd before
+and start from 0
+
+Ex: counter()
+=> 1
+
+Ex: counter()
+=> 2
+
+Ex: counter()
+=> 3
+
+*/
+
+
+/*
+24
+Write a function called resetCounter
+that will reset the previuos function
+and return the number before reset and
+a string say that the counter reset
+
+Ex: counter()
+=> 1
+
+Ex: counter()
+=> 2
+
+Ex: counter()
+=> 3
+
+Ex: resetCounter()
+=> 3 and the counter reset now
+
+Ex: counter()
+=> 1
+
+Ex: counter()
+=> 2
+
+Ex: resetCounter()
+=> 2 and the counter reset now
+
+Ex: counter()
+=> 1
+*/
+
+
+/*
+25
+// this question is in progress wait
+Write a function called guessMe
+that will take an argument (number)
+if the number not between 0 and 5 [0,1,2,3,4]
+it will return "Please insert a number between 0 and 5"
+
+if it is between 0 and 5, and guessed the correct number 0-5 [0,1,2,3,4]
+will return "you guess me correctly"
+
+if it is between 0 and 5, and not the same number randomly 0-5 [0,1,2,3,4]
+will return "you didnt guess me I was 3"
+
+
+Ex: guessMe(0)
+=> "you didnt guess me I was 3"
+
+Ex: guessMe(10)
+=>"Please insert a number between 0 and 5"
+
+Ex: guessMe(-5)
+=> "Please insert a number between 0 and 5"
+
+Ex: guessMe(3)
+=> "you guess me correctly"
+
+
+
+*/
+
+
+/*
+26
+// this question is in progress wait
+
+Write a function called guessMe
+that will take an argument (number)
+if the number not between 0 and 5 [0,1,2,3,4]
+it will return "Please insert a number between 0 and 5"
+
+if it is between 0 and 5, and guessed the correct number 0-5 [0,1,2,3,4]
+will return "you guess me correctly"
+
+if it is between 0 and 5, and not the same number randomly 0-5 [0,1,2,3,4]
+will return "you didnt guess me I was 3"
+
+
+Ex: guessMe(0)
+=> "you didnt guess me I was 3"
+
+Ex: guessMe(10)
+=>"Please insert a number between 0 and 5"
+
+Ex: guessMe(-5)
+=> "Please insert a number between 0 and 5"
+
+Ex: guessMe(3)
+=> "you guess me correctly"
 
 */
 
@@ -362,25 +478,6 @@ Ex: randomBetweenNumbers(3)
 */
 
 
-/*
 
 
-*/
-
-
-/*
-
-
-*/
-
-
-/*
-
-
-*/
-
-
-/*
-
-
-*/
+/////////// Advanced part
