@@ -6,8 +6,8 @@ partner's name, geographic location, job title.
 outputs your fortune to the screen like so:
 "You will be a X in Y, and married to Z with N kids."
 
-Ex: tellFortune('ball player', 'spain', 'Shaq', 3);
-=> "You will be a ball player in spain, and married to Shaq with 3 kids."
+Ex: tellFortune('software engineer', 'Jordan', 'Alice', 3);
+=> "You will be a software engineer in Jordan, and married to Alice with 3 kids."
 */
 
 
@@ -15,8 +15,10 @@ Ex: tellFortune('ball player', 'spain', 'Shaq', 3);
 2
 Write a function named calculateDogAge that:
 takes 1 argument: your puppy's age.
-calculates your dog's age based on the conversion rate of 1 human year to 7 dog years.
-outputs the result to the screen like so: "Your doggie is NN years old in dog years!"
+calculates your dog's age based on the conversion
+rate of 1 human year to 7 dog years.
+outputs the result to the screen like so:
+"Your doggie is NN years old in dog years!"
 
 Ex: calculateDogAge(1);
 => "Your doggie is 7 years old in dog years!"
@@ -389,33 +391,3 @@ Ex: resetCounter()
 Ex: counter()
 => 1
 */
-
-
-
-/*
-
-
-*/
-
-
-/*
-
-
-*/
-
-
-/*
-
-
-*/
-
-
-/*
-
-
-*/
-
-
-
-
-/////////// Advanced part
